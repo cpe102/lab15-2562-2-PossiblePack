@@ -1,0 +1,1 @@
+showData(dPtr,N,M);
